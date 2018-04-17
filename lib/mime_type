@@ -1,0 +1,5 @@
+const APPLICATION_TYPE_JSON = 'json';
+const APPLICATION_TYPE_TEXT = 'text/plain';
+
+module.exports.APPLICATION_TYPE_TEXT = 'text/plain';
+module.exports.APPLICATION_TYPE_JSON = APPLICATION_TYPE_JSON;
